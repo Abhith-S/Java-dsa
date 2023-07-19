@@ -17,7 +17,7 @@ import java.util.Arrays;
 
 public class ArrayPermutation {
     public static void main(String[] args) {
-        //create ans array of same length as nums
+
         int[] nums  = {0,2,1,5,3,4};
         System.out.println(Arrays.toString(buildArray(nums)) );
     }

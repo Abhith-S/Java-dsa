@@ -14,7 +14,6 @@ import java.util.Arrays;
 
 public class RunningSumArray {
     public static void main(String[] args) {
-        //create ans array of same length as nums
         int[] nums  = {1,2,3,4};
         System.out.println(Arrays.toString(runningSum(nums)) );
     }
