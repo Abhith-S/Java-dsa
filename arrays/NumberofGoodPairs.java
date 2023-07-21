@@ -15,6 +15,8 @@ public class NumberofGoodPairs {
 
         int[] nums  = {1,2,3,1,1,3};
         System.out.println( numIdenticalPairs(nums));
+
+
     }
 
     static int numIdenticalPairs(int[] nums) {
