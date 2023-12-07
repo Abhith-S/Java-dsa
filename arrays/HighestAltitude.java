@@ -43,4 +43,3 @@ public class HighestAltitude {
         return maxAltitude;
     }
 }
-}
